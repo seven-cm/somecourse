@@ -8,6 +8,7 @@
 
 [Javascript模块化][4]
 
+[Growth: 全栈增长工程师指南][5]
 
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
