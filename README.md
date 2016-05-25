@@ -12,10 +12,13 @@
 
 [Vimer的程序世界][6]
 
+[生产服务器环境最小化安装后 Centos 6.5优化配置备忘][7]
+
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
   [3]: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
   [4]: http://www.ruanyifeng.com/blog/2012/10/javascript_module.html
   [5]: http://growth.phodal.com/
   [6]: http://www.vimer.cn/
+  [7]: http://www.lvtao.net/server/centos-server-setup.html
   
