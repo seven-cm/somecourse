@@ -16,6 +16,8 @@
 
 [算法可视化][8]
 
+[GitHub 上有哪些值得推荐的开源电子书？][9]
+
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
   [3]: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
@@ -24,4 +26,4 @@
   [6]: http://www.vimer.cn/
   [7]: http://www.lvtao.net/server/centos-server-setup.html
   [8]: http://jasonpark.me/AlgorithmVisualizer/
-  
+  [9]: http://www.zhihu.com/question/38836382?sort=created
