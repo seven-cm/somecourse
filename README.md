@@ -18,6 +18,8 @@
 
 [GitHub 上有哪些值得推荐的开源电子书？][9]
 
+[Java 第三方库][10]
+
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
   [3]: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
@@ -27,3 +29,4 @@
   [7]: http://www.lvtao.net/server/centos-server-setup.html
   [8]: http://jasonpark.me/AlgorithmVisualizer/
   [9]: http://www.zhihu.com/question/38836382?sort=created
+  [10]: http://www.oschina.net/news/73316/java-programmers-must-know-third-party-libraries
