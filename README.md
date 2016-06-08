@@ -20,6 +20,8 @@
 
 [Java 第三方库][10]
 
+[Using a Message Handler to alter the SOAP Header in a Web Service Client][11]
+
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
   [3]: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
@@ -30,3 +32,4 @@
   [8]: http://jasonpark.me/AlgorithmVisualizer/
   [9]: http://www.zhihu.com/question/38836382?sort=created
   [10]: http://www.oschina.net/news/73316/java-programmers-must-know-third-party-libraries
+  [11]: http://www.javadb.com/using-a-message-handler-to-alter-the-soap-header-in-a-web-service-client/
