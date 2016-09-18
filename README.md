@@ -24,6 +24,8 @@
 
 [rpm包][12]
 
+[CentOS 搭建SVN服务][13]
+
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
   [3]: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
@@ -36,3 +38,4 @@
   [10]: http://www.oschina.net/news/73316/java-programmers-must-know-third-party-libraries
   [11]: http://www.javadb.com/using-a-message-handler-to-alter-the-soap-header-in-a-web-service-client/
   [12]: http://rpmfind.net/
+  [13]: http://www.cnblogs.com/vijayfly/p/5711962.html
