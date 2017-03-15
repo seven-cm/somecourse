@@ -28,6 +28,8 @@
 
 [Jmeter 学习][14]
 
+[Github访问慢解决办法][15]
+
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
   [3]: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
@@ -42,3 +44,4 @@
   [12]: http://rpmfind.net/
   [13]: http://www.cnblogs.com/vijayfly/p/5711962.html
   [14]: http://www.cnblogs.com/yangxia-test/p/3964881.html
+  [15]: https://segmentfault.com/a/1190000004171536
