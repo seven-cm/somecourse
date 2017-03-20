@@ -30,6 +30,8 @@
 
 [Github访问慢解决办法][15]
 
+[div inline-block-居中][16]
+
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
   [3]: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
@@ -45,3 +47,4 @@
   [13]: http://www.cnblogs.com/vijayfly/p/5711962.html
   [14]: http://www.cnblogs.com/yangxia-test/p/3964881.html
   [15]: https://segmentfault.com/a/1190000004171536
+  [16]: http://www.cnblogs.com/olafff/p/5103775.html
