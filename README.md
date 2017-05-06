@@ -38,6 +38,8 @@
 
 [new Thread的弊端及Java四种线程池的使用][19]
 
+[在线JSON2JAVA][20]
+
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
   [3]: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
@@ -58,3 +60,4 @@
 
 [18]: http://songzi0206.iteye.com/category/184239
 [19]: http://www.trinea.cn/android/java-android-thread-pool/
+[20]: http://www.jsons.cn/json2java/
