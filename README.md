@@ -48,6 +48,8 @@
 
 [手摸手-vue系列][24]
 
+[VSCode 配置][25]
+
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
   [3]: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
@@ -73,3 +75,4 @@
   [22]: http://www.netkiller.cn/
   [23]: http://es6.ruanyifeng.com/#README
   [24]: https://segmentfault.com/a/1190000009275424
+  [25]: http://www.jianshu.com/p/80e983201f86
