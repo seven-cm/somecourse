@@ -46,6 +46,8 @@
 
 [《ECMAScript 6 入门》- 阮一峰][23]
 
+[手摸手-vue系列][24]
+
   [1]: http://www.freebuf.com/sectool/101408.html?ref=myread
   [2]: http://zh.learnlayout.com/
   [3]: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
@@ -70,3 +72,4 @@
   [21]: http://cnodejs.org/topic/58806abd5d4612c33919e86b
   [22]: http://www.netkiller.cn/
   [23]: http://es6.ruanyifeng.com/#README
+  [24]: https://segmentfault.com/a/1190000009275424
